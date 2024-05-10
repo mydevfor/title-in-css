@@ -1,13 +1,13 @@
 .hover-button {
     position: relative;
     text-align: center;
-    width: 230px;
 }
 
 .hover-button::after {
     content: attr(data-title);
     position: absolute;
     top: 50px;
+    width: 330px;
     left: 50%;
     transform: translateX(-50%);
     background-color: #333;
