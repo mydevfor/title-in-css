@@ -7,7 +7,7 @@
     content: attr(data-title);
     position: absolute;
     top: 50px;
-    width: 330px;
+    width: 230px;
     left: 50%;
     transform: translateX(-50%);
     background-color: #333;
