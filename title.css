@@ -1,5 +1,6 @@
 .hover-button {
     position: relative;
+    text-align: center;
 }
 
 .hover-button::after {
